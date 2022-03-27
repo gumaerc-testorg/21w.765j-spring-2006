@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 22ad0398-3119-dfdb-1f76-ee99cc154fbd
 resourcetype: Document
 title: curtain_intro.pdf
 uid: d46b60a4-94ce-4672-465b-a30abda8c33c

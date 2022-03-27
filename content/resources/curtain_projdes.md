@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 22ad0398-3119-dfdb-1f76-ee99cc154fbd
 resourcetype: Document
 title: curtain_projdes.pdf
 uid: 371970b7-41d7-1395-f345-27bf063dd4ad

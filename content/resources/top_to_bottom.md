@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 22ad0398-3119-dfdb-1f76-ee99cc154fbd
 resourcetype: Document
 title: top_to_bottom.pdf
 uid: 47efa333-d299-0ef9-0b21-63a86a1fa372

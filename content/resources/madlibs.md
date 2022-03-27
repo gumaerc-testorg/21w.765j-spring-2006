@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 22ad0398-3119-dfdb-1f76-ee99cc154fbd
 resourcetype: Document
 title: madlibs.pdf
 uid: 53c773fd-98e7-fd21-4a9e-eaef4168ed03

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 22ad0398-3119-dfdb-1f76-ee99cc154fbd
 resourcetype: Document
 title: shaolin.pdf
 uid: 8dd4fd76-6d2b-032b-f97b-b0f071057609

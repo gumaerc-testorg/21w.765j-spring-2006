@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: a2507699-2f2d-d51a-929b-185897ca6af4
 resourcetype: Image
 title: chp_bioglyphs.jpg
 uid: 862c942b-3d23-e34d-348c-e0ac235526d5
