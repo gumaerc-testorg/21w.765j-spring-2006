@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: This resource contains information no the final project description.
-file: /media/courses/21w-765j-interactive-and-non-linear-narrative-theory-and-practice-spring-2006/53c773fd98e7fd214a9eeaef4168ed03_madlibs.pdf
+file: /courses/21w-765j-interactive-and-non-linear-narrative-theory-and-practice-spring-2006/53c773fd98e7fd214a9eeaef4168ed03_madlibs.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -13,3 +14,4 @@ resourcetype: Document
 title: madlibs.pdf
 uid: 53c773fd-98e7-fd21-4a9e-eaef4168ed03
 ---
+This resource contains information no the final project description.

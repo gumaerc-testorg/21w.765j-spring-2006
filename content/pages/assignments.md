@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains information on the topics and the corresponding
+  reading part that needs to be done on the same.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -35,7 +37,7 @@ Write a non-linear narrative.
 {{< tdopen >}}
 
 
-Top to Bottom, by Neal Grigsby ([PDF]({{< baseurl >}}/resources/top_to_bottom))
+Top to Bottom, by Neal Grigsby ({{% resource_link 47efa333-d299-0ef9-0b21-63a86a1fa372 "PDF" %}})
 
 [Oedipus Ergodic](http://www.girlpants.org/peter/), by Peter Rauch
 
@@ -83,15 +85,15 @@ Create a graph or chart that describes narrative structure in a video game or ot
 {{< tdopen >}}
 
 
-Escape Velocity Nova Missions, by Dany Qumsiyeh ([PDF]({{< baseurl >}}/resources/evnm))
+Escape Velocity Nova Missions, by Dany Qumsiyeh ({{% resource_link c90758fc-2f3a-d3ed-e88d-99eb6fdf5233 "PDF" %}})
 
-Grand Theft Auto III, Portland Map, by Neal Grigsby ([JPG]({{< baseurl >}}/resources/gta_iii))
+Grand Theft Auto III, Portland Map, by Neal Grigsby ({{% resource_link 5eeaa9ac-4cda-6c51-f162-bd4de0574ffa "JPG" %}})
 
-Narrative Structure of an MMD, by Amir Hirsch ([JPG]({{< baseurl >}}/resources/mmo_diagram))
+Narrative Structure of an MMD, by Amir Hirsch ({{% resource_link 2f3b204b-48ef-69ac-b489-cf08ab0fa7b4 "JPG" %}})
 
-Starcraft Plot Map, by Geoffrey Long ([PDF]({{< baseurl >}}/resources/starcraft))
+Starcraft Plot Map, by Geoffrey Long ({{% resource_link e2e1e95a-cadf-11a1-a0f9-b6bfd05b6d17 "PDF" %}})
 
-Mortal Kombat: Shaolin Monks Narrative, by Peter Rauch ([PDF]({{< baseurl >}}/resources/shaolin))
+Mortal Kombat: Shaolin Monks Narrative, by Peter Rauch ({{% resource_link 8dd4fd76-6d2b-032b-f97b-b0f071057609 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -113,13 +115,13 @@ Throughout the semester students will work in groups (2-3) on an ongoing game, n
 {{< tdopen >}}
 
 
-Madlibs, by Alexander M. Burg, Bryan A Haddon, and Dana Gorodetsky ([PDF]({{< baseurl >}}/resources/madlibs))
+Madlibs, by Alexander M. Burg, Bryan A Haddon, and Dana Gorodetsky ({{% resource_link 53c773fd-98e7-fd21-4a9e-eaef4168ed03 "PDF" %}})
 
 Background on _The Curtain_:
 
-World descriptions by Peter Rauch and Neal Grigsby ([PDF]({{< baseurl >}}/resources/curtain_intro))
+World descriptions by Peter Rauch and Neal Grigsby ({{% resource_link d46b60a4-94ce-4672-465b-a30abda8c33c "PDF" %}})
 
-A description of the project, along with some email transcripts detailing its evolution ([PDF]({{< baseurl >}}/resources/curtain_projdes))
+A description of the project, along with some email transcripts detailing its evolution ({{% resource_link 371970b7-41d7-1395-f345-27bf063dd4ad "PDF" %}})
 
 
 {{< tdclose >}}

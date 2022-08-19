@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains information on course description, grading system,
+  course requirements, working groups for media projects.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
