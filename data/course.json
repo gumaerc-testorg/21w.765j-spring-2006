@@ -44,6 +44,7 @@
   "course_title": "Interactive and Non-Linear Narrative: Theory and Practice",
   "course_description": "This course covers techniques of creating narratives that take advantage of the flexibility of form offered by the computer. The course studies the structural properties of book-based narratives that experiment with digression, multiple points of view, disruptions of time and of storyline. The class analyzes the structure and evaluates the literary qualities of computer-based narratives including hypertexts, adventure games, and classic artificial intelligence programs like Eliza. With this base, students use authoring systems to model a variety of narrative techniques and to create their own fictions. Knowledge of programming is helpful but not necessary.\n",
   "department_numbers": [
+    "CMS-W",
     "21L"
   ],
   "extra_course_numbers": "21L.489J,CMS.845J",
@@ -55,6 +56,6 @@
   "learning_resource_types": [
     "Projects with Examples"
   ],
-  "site_uid": "44b61001-4526-4e18-bc54-8736b1b74919",
+  "site_uid": "60961cae-a122-460f-9abf-68f4d9c54870",
   "title": "Course Metadata"
 }
