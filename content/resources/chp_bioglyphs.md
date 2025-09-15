@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: ''
-file: /courses/21w-765j-interactive-and-non-linear-narrative-theory-and-practice-spring-2006/862c942b3d23e34d348ce0ac235526d5_chp_bioglyphs.jpg
+file: /ol-ocw-studio-app/courses/21w-765j-interactive-and-non-linear-narrative-theory-and-practice-spring-2006/862c942b3d23e34d348ce0ac235526d5_chp_bioglyphs.jpg
+file_size: 39491
 file_type: image/jpeg
 image_metadata:
   caption: ''

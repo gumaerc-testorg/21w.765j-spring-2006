@@ -2,7 +2,8 @@
 content_type: resource
 description: This resource contains information on Mortal combat shaolin monks at
   macro and micro level.
-file: /courses/21w-765j-interactive-and-non-linear-narrative-theory-and-practice-spring-2006/8dd4fd766d2b032bf97bb0f071057609_shaolin.pdf
+file: /ol-ocw-studio-app/courses/21w-765j-interactive-and-non-linear-narrative-theory-and-practice-spring-2006/8dd4fd766d2b032bf97bb0f071057609_shaolin.pdf
+file_size: 35425
 file_type: application/pdf
 learning_resource_types:
 - Assignments

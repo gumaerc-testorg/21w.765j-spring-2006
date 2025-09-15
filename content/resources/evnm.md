@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource contains information on Escape Velocity Nova Missions.
-file: /courses/21w-765j-interactive-and-non-linear-narrative-theory-and-practice-spring-2006/c90758fc2f3ad3ede88d99eb6fdf5233_evnm.pdf
+file: /ol-ocw-studio-app/courses/21w-765j-interactive-and-non-linear-narrative-theory-and-practice-spring-2006/c90758fc2f3ad3ede88d99eb6fdf5233_evnm.pdf
+file_size: 118354
 file_type: application/pdf
 learning_resource_types:
 - Assignments

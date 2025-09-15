@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource contains the Grand Theft Auto-Portland Map.
-file: /courses/21w-765j-interactive-and-non-linear-narrative-theory-and-practice-spring-2006/5eeaa9ac4cda6c51f162bd4de0574ffa_gta_iii.jpg
+file: /ol-ocw-studio-app/courses/21w-765j-interactive-and-non-linear-narrative-theory-and-practice-spring-2006/5eeaa9ac4cda6c51f162bd4de0574ffa_gta_iii.jpg
+file_size: 59096
 file_type: image/jpeg
 image_metadata:
   caption: ''

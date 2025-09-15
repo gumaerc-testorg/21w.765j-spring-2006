@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource contains information no interactive and non-linear narrative.
-file: /courses/21w-765j-interactive-and-non-linear-narrative-theory-and-practice-spring-2006/e2e1e95acadf11a1a0f9b6bfd05b6d17_starcraft.pdf
+file: /ol-ocw-studio-app/courses/21w-765j-interactive-and-non-linear-narrative-theory-and-practice-spring-2006/e2e1e95acadf11a1a0f9b6bfd05b6d17_starcraft.pdf
+file_size: 44192
 file_type: application/pdf
 learning_resource_types:
 - Assignments

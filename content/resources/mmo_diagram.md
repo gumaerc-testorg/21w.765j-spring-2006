@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource contains information on the structure of a MMO.
-file: /courses/21w-765j-interactive-and-non-linear-narrative-theory-and-practice-spring-2006/2f3b204b48ef69acb489cf08ab0fa7b4_mmo_diagram.jpg
+file: /ol-ocw-studio-app/courses/21w-765j-interactive-and-non-linear-narrative-theory-and-practice-spring-2006/2f3b204b48ef69acb489cf08ab0fa7b4_mmo_diagram.jpg
+file_size: 60067
 file_type: image/jpeg
 image_metadata:
   caption: ''

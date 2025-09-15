@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource contains information no the final project description.
-file: /courses/21w-765j-interactive-and-non-linear-narrative-theory-and-practice-spring-2006/53c773fd98e7fd214a9eeaef4168ed03_madlibs.pdf
+file: /ol-ocw-studio-app/courses/21w-765j-interactive-and-non-linear-narrative-theory-and-practice-spring-2006/53c773fd98e7fd214a9eeaef4168ed03_madlibs.pdf
+file_size: 15345
 file_type: application/pdf
 learning_resource_types:
 - Assignments

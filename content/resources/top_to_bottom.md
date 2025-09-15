@@ -2,7 +2,8 @@
 content_type: resource
 description: This resource talks about the mind of the sage, being in repose, becomes
   the mirror of the universe, the speculum of all creation.
-file: /courses/21w-765j-interactive-and-non-linear-narrative-theory-and-practice-spring-2006/47efa333d2990ef90b2163a86a1fa372_top_to_bottom.pdf
+file: /ol-ocw-studio-app/courses/21w-765j-interactive-and-non-linear-narrative-theory-and-practice-spring-2006/47efa333d2990ef90b2163a86a1fa372_top_to_bottom.pdf
+file_size: 117616
 file_type: application/pdf
 learning_resource_types:
 - Assignments

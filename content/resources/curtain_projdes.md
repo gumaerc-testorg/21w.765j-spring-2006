@@ -2,7 +2,8 @@
 content_type: resource
 description: This resource contains information on the project description i.e. The
   Curtain.
-file: /courses/21w-765j-interactive-and-non-linear-narrative-theory-and-practice-spring-2006/371970b741d71395f34527bf063dd4ad_curtain_projdes.pdf
+file: /ol-ocw-studio-app/courses/21w-765j-interactive-and-non-linear-narrative-theory-and-practice-spring-2006/371970b741d71395f34527bf063dd4ad_curtain_projdes.pdf
+file_size: 111418
 file_type: application/pdf
 learning_resource_types:
 - Assignments
