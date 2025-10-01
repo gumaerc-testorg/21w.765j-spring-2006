@@ -12,46 +12,46 @@ Readings are also listed by [session](#Readings_by_Session).
 
 ## Required Readings
 
-Bleecker, Julian. "[A Manifesto for Networked Objects - Cohabiting with Pigeons, Arphids and Aibos in the Internet of Things](http://www.nearfuturelaboratory.com/2006/02/26/a-manifesto-for-networked-objects/)." nearfuturelaboratory.com.
+Bleecker, Julian. "{{% resource_link "f1296099-9bac-4388-8790-4257192ed7d5" "A Manifesto for Networked Objects - Cohabiting with Pigeons, Arphids and Aibos in the Internet of Things" %}}." nearfuturelaboratory.com.
 
-Borges, Jorge Luis. "[The Garden of Forking Paths](http://en.wikipedia.org/wiki/The_Garden_of_Forking_Paths)." Hypertext.
+Borges, Jorge Luis. "{{% resource_link "32b36b7e-8e55-4a07-9443-e1ae0695830e" "The Garden of Forking Paths" %}}." Hypertext.
 
 ———. "The Garden of Forking Paths." *Collected Fictions*. Translated by Andrew Hurley. New York, NY: Penguin, 1999. ISBN: 9780140286809.
 
-Bush, Vannevar. "[As We May Think](http://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/)." *Atlantic Monthly*, July 1945.
+Bush, Vannevar. "{{% resource_link "84dddc4b-fdd0-4ce7-aebc-c9da3414d543" "As We May Think" %}}." *Atlantic Monthly*, July 1945.
 
 Chaplin, Heather, and Aaron Ruby. "Will Wright and the Model of Everything." *Smartbomb*. Chapel Hill, NC: Algonquin, 2005. ISBN: 9781565123465.
 
-Dibbell, Julian. "[A Rape in Cyberspace](http://www.juliandibbell.com/texts/bungle.html)." *My Tiny Life: Crime and Passion in a Virtual World*. New York, NY: Henry Holt & Company, 1999. ISBN: 9780805036268.
+Dibbell, Julian. "{{% resource_link "c70827b6-dc1e-41dd-a006-0a1f783bcb9c" "A Rape in Cyberspace" %}}." *My Tiny Life: Crime and Passion in a Virtual World*. New York, NY: Henry Holt & Company, 1999. ISBN: 9780805036268.
 
-Gilliam, Terry. [*Twelve Monkeys*](http://www.imdb.com/title/tt0114746/). 1995.
+Gilliam, Terry. {{% resource_link "f5b26978-7c12-4b20-8f6b-6fc02e7b324b" "*Twelve Monkeys*" %}}. 1995.
 
-Marker, Chris. [*La Jetée*](http://www.imdb.com/title/tt0056119/). 1962.
+Marker, Chris. {{% resource_link "dcc18456-08bf-4998-a15c-055c25b25a05" "*La Jetée*" %}}. 1962.
 
 McGonigal, Jane. "Experimental Gameplay: I Love Bees." Lecture Notes. March 2005. 
 
-———. "Alternate Reality Gaming: Experimental Social Structures for MMOs." Lecture Notes. October 2005. ([PDF - 2.9 MB](http://www.avantgame.com/McGonigal_ARG_Austin%20Game%20Conference_Oct2005.pdf))
+———. "Alternate Reality Gaming: Experimental Social Structures for MMOs." Lecture Notes. October 2005. ({{% resource_link "41fb4a29-5ea0-4d1c-a3c1-7f866cf4ba67" "PDF - 2.9 MB" %}})
 
 Mindell, David A. *Between Human and Machine*. Baltimore, MD: Johns Hopkins University Press, 2004. ISBN: 9780801880575.
 
-Momus. "[I Dance, Therefore I Am](http://archive.wired.com/culture/lifestyle/commentary/imomus/2005/12/69814?currentPage=all)." Wired News.
+Momus. "{{% resource_link "ae7dade0-5972-4244-982f-35df77e50b25" "I Dance, Therefore I Am" %}}." Wired News.
 
 Morville, Peter. *Ambient Findability*. Cambridge, MA: O'Reilly, 2005. ISBN: 9780596007652.    
-See Chapter 1 at the O'Reilly Web site. ([PDF](http://keithpaul.net/wp-content/uploads/ambient_findability.pdf))
+See Chapter 1 at the O'Reilly Web site. ({{% resource_link "b1e6a142-37e9-476d-90e8-6757fdd67263" "PDF" %}})
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262631877) Murray, Janet H. [*Hamlet on the Holodeck*](https://mitpress.mit.edu/9780262631877). Cambridge, MA: The MIT Press, 1998. ISBN: 9780262631877.
+{{% resource_link "b38ef880-cf0e-4c36-bcd0-e4b812ad6bdc" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Murray, Janet H. {{% resource_link "b38ef880-cf0e-4c36-bcd0-e4b812ad6bdc" "*Hamlet on the Holodeck*" %}}. Cambridge, MA: The MIT Press, 1998. ISBN: 9780262631877.
 
 Nelson, Theodor H. *Literary Machines*. Sausalito, CA: Mindful Press, 1982. ISBN: 9780893470524.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262240451) Salen, Katie, and Eric Zimmerman. [*Rules of Play: Game Design Fundamentals*](https://mitpress.mit.edu/9780262240451). Cambridge, MA: The MIT Press, 2003. ISBN: 9780262240451.
+{{% resource_link "711883e7-f030-4247-9b62-c5a5b289e834" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Salen, Katie, and Eric Zimmerman. {{% resource_link "711883e7-f030-4247-9b62-c5a5b289e834" "*Rules of Play: Game Design Fundamentals*" %}}. Cambridge, MA: The MIT Press, 2003. ISBN: 9780262240451.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262693264) Sterling, Bruce. [*Shaping Things*](https://mitpress.mit.edu/9780262693264). Cambridge, MA: The MIT Press, 2005. ISBN: 9780262693264.
+{{% resource_link "c02dc5bd-583c-4309-88a8-e290feaa3e30" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Sterling, Bruce. {{% resource_link "c02dc5bd-583c-4309-88a8-e290feaa3e30" "*Shaping Things*" %}}. Cambridge, MA: The MIT Press, 2005. ISBN: 9780262693264.
 
-Turing, A. M. "[Computing Machinery and Intelligence](https://jupyter.brynmawr.edu/services/public/dblank/CS371%20Cognitive%20Science/2016-Fall/TuringComputing.pdf)." *Mind* 49 (1950): 433-460.
+Turing, A. M. "{{% resource_link "0143039e-a442-4843-9fed-fbc2137d661f" "Computing Machinery and Intelligence" %}}." *Mind* 49 (1950): 433-460.
 
-Turkle, Sherry. "[Virtuality and Its Discontents: Searching for Community in Cyberspace](https://www.semanticscholar.org/paper/Virtuality-and-its-Discontents%3A-Searching-for-in-Turkle/719dd29981b10ce803c1be5b6b6d5e30dff34a1a)." *The American Prospect* 7, no. 24 (1996).
+Turkle, Sherry. "{{% resource_link "3678a562-af60-41c5-ad3a-38cb520375a8" "Virtuality and Its Discontents: Searching for Community in Cyberspace" %}}." *The American Prospect* 7, no. 24 (1996).
 
-Wright, Will. "[Sims, BattleBots, Cellular Automata God and Go: A Conversation with Will Wright](http://www.gamestudies.org/0102/pearce/)." By Celia Pearce. *Game Studies* (July 2002).
+Wright, Will. "{{% resource_link "174c8975-da35-4e22-a7c4-95220143e0bc" "Sims, BattleBots, Cellular Automata God and Go: A Conversation with Will Wright" %}}." By Celia Pearce. *Game Studies* (July 2002).
 
 ## {{< anchor "Readings_by_Session" >}}{{< /anchor >}}Readings by Session
 
