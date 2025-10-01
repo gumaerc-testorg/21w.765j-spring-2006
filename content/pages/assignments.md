@@ -39,7 +39,7 @@ Write a non-linear narrative.
 
 Top to Bottom, by Neal Grigsby ({{% resource_link 47efa333-d299-0ef9-0b21-63a86a1fa372 "PDF" %}})
 
-[Oedipus Ergodic](http://www.girlpants.org/peter/), by Peter Rauch
+{{% resource_link "be41ada0-9d5d-41dd-a310-0906645bf94e" "Oedipus Ergodic" %}}, by Peter Rauch
 
 
 {{< tdclose >}}
